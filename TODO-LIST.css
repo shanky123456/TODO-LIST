@@ -1,0 +1,82 @@
+.heading{
+    text-align: center;
+    height: 60px;
+    padding-top: 15px;
+    box-sizing: border-box;
+    font-size: larger;
+    font-weight:100;
+    font-size: x-large;
+    background-color: rgb(6, 88, 143);
+    color: aliceblue;
+    margin-left: -10px;
+    margin-bottom: 10px;
+    margin-right: -10px;
+    margin-top: -10px;
+}
+
+.input{
+    text-align: center;
+    font-size: x-large;
+    color: rgb(6, 88, 143);
+
+}
+#input_task{
+    color: rgb(6, 88, 143);
+    height: 20px;
+}
+
+#submit{
+    margin-left: 6px;
+    margin-top: 3px;
+}
+
+.added
+{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    justify-content: space-around;
+
+}
+.head1
+{
+    text-align: center;
+    border-bottom: 3px solid rgb(6, 88, 143);
+    color: rgb(6, 88, 143);
+
+
+}
+
+
+
+.incomplete_content
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.i1
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(6, 88, 143);
+    color: aliceblue;
+    margin-left: 2px;
+    margin-top: 4px;
+    padding: 2px;
+    box-sizing: border-box;
+}
+#check_box
+{
+margin-top: 3px;
+}
+
+
+.incomplete
+{
+    border: 3px solid rgb(6, 88, 143);
+    min-height: 350px;
+    width: 320px;
+}
+
